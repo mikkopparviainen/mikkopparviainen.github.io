@@ -19,4 +19,6 @@
      - Atlassian Confluence (online technical documentation)
      - Git (including remotes such as github and bitbucket)
      - Slurm usage (for managing online computational resources)
+     - YAML
+     - Markdown
      
