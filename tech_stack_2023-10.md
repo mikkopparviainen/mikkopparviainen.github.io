@@ -1,0 +1,22 @@
+- Programming languages
+    - Python
+    - Matlab/Octave
+    - bash
+- Machine learning methods
+    - unsupervised and supervised problems
+    - classification and regression problems
+    - time series analysis/forecasting, and anomaly detection). Tools e.g.: sklearn, gluonts, pytorch, and Keras/Tensorflow (artificial neural networks)
+- System administration
+    - Operating systems: Ubuntu/Debian/Rasbian/CentOS (client and system administrator), macOS (client), and Windows (client)
+    - Virtual Python environments
+    - Dualboot systems (Linux + Windows)
+    - Firewalls (ufw/iptables)
+    - Cron scheduled tasks (user and system levels)
+    - Disk encrypted operating system installations and encrypted disk volumes (Veracrypt)
+- Applications, tools, etc.
+     - IoT things build and deployment (e.g., using Raspberry Pi devices)
+     - LaTex (e.g., technical documentation and presentations)
+     - Atlassian Confluence (online technical documentation)
+     - Git (including remotes such as github and bitbucket)
+     - Slurm usage (for managing online computational resources)
+     
