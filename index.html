@@ -1,13 +1,21 @@
-<div class="firstdiv">
+<html> 
+<head>
+
 <!-- THis works
 <script>
   var x = 3;
     alert('hello there, I am JavaScript - x is ' + x);
     </script>
 -->
-
-
-
+<script src="jquery.js"></script>
+<!-- <script type="text/javascript"> -->
+  <script>
+  $(function(){
+  $("#secdiv").load("tech_stack_2023-10.html");
+  });
+ </script>
+</head>
+<div class="firstdiv">
 <h1 id="mikko-parviainen">Mikko Parviainen</h1>
 <p>Contact Information</p>
 <p>Email: mikkopa@gmail.com</p>
@@ -71,14 +79,11 @@ My expertise is in audio signal processing including sound source localization, 
 <p><a href="cv_TENK_bib_2022-6.pdf">Click to view my CV</a>.</p>
 </div>
 <div class="secdiv"></div>
+</html>
 
 
 
-<script type="text/javascript">
- $(function (){
-  $(".secdiv").load("tech_stack_2023-10.html");
-  });
-  </script>
+
 
 
 
