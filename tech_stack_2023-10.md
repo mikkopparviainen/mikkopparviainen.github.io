@@ -1,7 +1,12 @@
-- Programming languages
+- Programming and markup languages
     - Python
     - Matlab/Octave
     - bash
+    - LaTex (e.g., technical documentation and presentations)
+    - HTML 
+    - YAML
+    - Markdown
+
 - Machine learning methods
     - unsupervised and supervised problems
     - classification and regression problems
@@ -15,10 +20,7 @@
     - Disk encrypted operating system installations and encrypted disk volumes (Veracrypt)
 - Applications, tools, etc.
      - IoT things build and deployment (e.g., using Raspberry Pi devices)
-     - LaTex (e.g., technical documentation and presentations)
      - Atlassian Confluence (online technical documentation)
      - Git (including remotes such as github and bitbucket)
      - Slurm usage (for managing online computational resources)
-     - YAML
-     - Markdown
      
