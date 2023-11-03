@@ -2,11 +2,9 @@
     - Python
     - Matlab/Octave
     - bash
-    - LaTex (e.g., technical documentation and presentations)
-    - HTML 
+    - LaTeX (e.g., technical documentation and presentations) 
     - YAML
     - Markdown
-
 - Machine learning methods
     - unsupervised and supervised problems
     - classification and regression problems
@@ -18,7 +16,7 @@
     - Firewalls (ufw/iptables)
     - Cron scheduled tasks (user and system levels)
     - Disk encrypted operating system installations and encrypted disk volumes (Veracrypt)
-- Applications, tools, etc.
+- Misc. applications, tools, etc.
      - IoT things build and deployment (e.g., using Raspberry Pi devices)
      - Atlassian Confluence (online technical documentation)
      - Git (including remotes such as github and bitbucket)
