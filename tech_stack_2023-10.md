@@ -8,7 +8,7 @@
 - Machine learning methods
     - unsupervised and supervised problems
     - classification and regression problems
-    - time series analysis/forecasting, and anomaly detection). Tools e.g.: sklearn, gluonts, pytorch, and Keras/Tensorflow (artificial neural networks)
+    - time series analysis/forecasting, and anomaly detection. Tools e.g.: sklearn, gluonts, pytorch, and Keras/Tensorflow (artificial neural networks)
 - System administration
     - Operating systems: Ubuntu/Debian/Rasbian/CentOS (client and system administrator), macOS (client), and Windows (client)
     - Virtual Python environments
