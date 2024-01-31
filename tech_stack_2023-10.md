@@ -10,7 +10,7 @@
     - classification and regression problems
     - time series analysis/forecasting, and anomaly detection. Tools e.g.: sklearn, gluonts, pytorch, and Keras/Tensorflow (artificial neural networks)
 - System administration
-    - Operating systems: Ubuntu/Debian/Rasbian/CentOS (client and system administrator), macOS (client), and Windows (client)
+    - Operating systems: Ubuntu/Debian/Raspbian/CentOS (client and system administrator), macOS (client), and Windows (client)
     - Virtual Python environments
     - Dualboot systems (Linux + Windows)
     - Firewalls (ufw/iptables)
