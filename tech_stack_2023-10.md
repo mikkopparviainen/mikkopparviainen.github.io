@@ -1,5 +1,5 @@
 - Programming and markup languages
-    - Python (numpy, scipy, scikit-learn, pytorch, keras)
+    - Python (numpy, scipy, scikit-learn, Pytorch, Keras)
     - Matlab/Octave
     - bash
     - LaTeX (e.g., technical documentation and presentations) 
